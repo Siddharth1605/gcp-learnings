@@ -1,5 +1,4 @@
 # Day-01: Introduction to Cloud and GCP
-
 ---
 
 ## What You Will Learn Today
